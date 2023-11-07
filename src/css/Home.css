@@ -1,0 +1,17 @@
+.div-home{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    margin: 0 auto;
+    padding: 60px 60px;
+    gap: 40px;
+}
+
+.div-home img{
+    margin-right: 40px;
+}
+
+.h1{
+    font-size: larger;
+    font-weight: bolder;
+}
